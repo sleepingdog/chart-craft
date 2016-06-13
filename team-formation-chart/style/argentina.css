@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document for SVG football shirts */
+/* Argentina */
+
+.shirt {
+	fill: #FFFFFF;
+}
+.hoop {
+	display: none;
+}
+.stripe {
+	fill: #75AADB;
+}

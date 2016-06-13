@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.35" productVersion="11.0.8165" PIVersion="1.0.0.0" href="http://www.sleepingdog.org.uk/x3d/tree/organization.xsn" name="urn:schemas-microsoft-com:office:infopath:organization:http---ns-hr-xml-org-2007-04-15" language="en-gb" ?><?mso-application progid="InfoPath.Document"?>
+<ns1:Organization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:ns1="http://ns.hr-xml.org/2007-04-15"
+	xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<ns1:OrganizationName>Kelpie College</ns1:OrganizationName>
+	<ns1:OrganizationalUnit typeOfGroup="" hierarchicalRole="Functional">
+		<ns1:OrganizationalUnitName>eFish-in-Sea Committee</ns1:OrganizationalUnitName>
+		<ns1:PersonMember>
+			<ns1:PersonName>
+				<ns1:FormattedName>Jane Jackson </ns1:FormattedName>
+			</ns1:PersonName>
+			<ns1:PersonId validFrom="2000-01-01" validTo="2999-12-31">
+				<ns1:IdValue name="photograph"
+					>http://www.tavis.me.uk/Pictcoll/images/JJ.GIF</ns1:IdValue>
+			</ns1:PersonId>
+			<ns1:PersonRole leader="true" />
+		</ns1:PersonMember>
+		<ns1:PersonMember>
+			<ns1:PersonName>
+				<ns1:FormattedName>Dusty Lore</ns1:FormattedName>
+			</ns1:PersonName>
+			<ns1:PersonId validFrom="2000-01-01" validTo="2999-12-31">
+				<ns1:IdValue name="photograph"
+					>http://www.tavis.me.uk/Pictcoll/images/DL.GIF</ns1:IdValue>
+			</ns1:PersonId>
+		</ns1:PersonMember>
+		<ns1:PersonMember>
+			<ns1:PersonName>
+				<ns1:FormattedName>Mental Grime</ns1:FormattedName>
+			</ns1:PersonName>
+			<ns1:PersonId validFrom="2000-01-01" validTo="2999-12-31">
+				<ns1:IdValue name="photograph"
+					>http://www.tavis.me.uk/Pictcoll/images/MG.GIF</ns1:IdValue>
+			</ns1:PersonId>
+		</ns1:PersonMember>
+		<ns1:PersonMember>
+			<ns1:PersonName>
+				<ns1:FormattedName>Gray Homespun</ns1:FormattedName>
+			</ns1:PersonName>
+			<ns1:PersonId validFrom="2000-01-01" validTo="2999-12-31">
+				<ns1:IdValue name="photograph"
+					>http://www.tavis.me.uk/Pictcoll/images/GH.GIF</ns1:IdValue>
+			</ns1:PersonId>
+		</ns1:PersonMember>
+		<ns1:PersonMember>
+			<ns1:PersonName>
+				<ns1:FormattedName>Ann Angler</ns1:FormattedName>
+			</ns1:PersonName>
+			<ns1:PersonId validFrom="2000-01-01" validTo="2999-12-31">
+				<ns1:IdValue name="photograph"
+					>http://www.tavis.me.uk/Pictcoll/xml/aa.gif</ns1:IdValue>
+			</ns1:PersonId>
+		</ns1:PersonMember>
+		<ns1:PersonMember>
+			<ns1:PersonName>
+				<ns1:FormattedName>Bob Buccaneer</ns1:FormattedName>
+			</ns1:PersonName>
+			<ns1:PersonId validFrom="2000-01-01" validTo="2999-12-31">
+				<ns1:IdValue name="photograph"
+					>http://www.tavis.me.uk/Pictcoll/xml/bb.gif</ns1:IdValue>
+			</ns1:PersonId>
+		</ns1:PersonMember>
+		<ns1:PersonMember>
+			<ns1:PersonName>
+				<ns1:FormattedName>Claire Cutlass</ns1:FormattedName>
+			</ns1:PersonName>
+			<ns1:PersonId validFrom="2000-01-01" validTo="2999-12-31">
+				<ns1:IdValue name="photograph"
+					>http://www.tavis.me.uk/Pictcoll/xml/cc.gif</ns1:IdValue>
+			</ns1:PersonId>
+		</ns1:PersonMember>
+		<ns1:PersonMember>
+			<ns1:PersonName>
+				<ns1:FormattedName>Dan Doldrum</ns1:FormattedName>
+			</ns1:PersonName>
+			<ns1:PersonId validFrom="2000-01-01" validTo="2999-12-31">
+				<ns1:IdValue name="photograph"
+					>http://www.tavis.me.uk/Pictcoll/xml/dd.gif</ns1:IdValue>
+			</ns1:PersonId>
+		</ns1:PersonMember>
+	</ns1:OrganizationalUnit>
+</ns1:Organization>

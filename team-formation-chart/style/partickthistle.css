@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document for SVG football shirts */
+/* Partick Thistle */
+
+.shirt {
+	fill: #FEE500;
+}
+.hoop {
+	fill: #CC0000;
+}
+.stripe {
+	display: none;
+}

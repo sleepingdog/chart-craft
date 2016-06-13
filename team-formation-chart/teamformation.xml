@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teamFormation xmlns="http://www.sleepingdog.org.uk/sport/team/formation"
+	xmlns:team="http://www.sleepingdog.org.uk/sport/team/formation">
+	<formations>
+		<formation>
+			<title>4-4-2</title>
+			<position>
+				<start x="0" y="0.2" />
+			</position>
+			<position>
+				<start x="-0.75" y="0.4" />
+			</position>
+			<position>
+				<start x="-0.25" y="0.4" />
+			</position>
+			<position>
+				<start x="0.25" y="0.4" />
+			</position>
+			<position>
+				<start x="0.75" y="0.4" />
+			</position>
+			<position>
+				<start x="-0.75" y="0.6" />
+			</position>
+			<position>
+				<start x="-0.25" y="0.6" />
+			</position>
+			<position>
+				<start x="0.25" y="0.6" />
+			</position>
+			<position>
+				<start x="0.75" y="0.6" />
+			</position>
+			<position>
+				<start x="-0.25" y="0.8" />
+			</position>
+			<position>
+				<start x="0.25" y="0.8" />
+			</position>
+		</formation>
+		<formation>
+			<title>4-3-3</title>
+			<position>
+				<start x="0" y="0.2" />
+			</position>
+			<position>
+				<start x="-0.75" y="0.4" />
+			</position>
+			<position>
+				<start x="-0.25" y="0.4" />
+			</position>
+			<position>
+				<start x="0.25" y="0.4" />
+			</position>
+			<position>
+				<start x="0.75" y="0.4" />
+			</position>
+			<position>
+				<start x="-0.5" y="0.6" />
+			</position>
+			<position>
+				<start x="0" y="0.6" />
+			</position>
+			<position>
+				<start x="0.5" y="0.6" />
+			</position>
+			<position>
+				<start x="-0.5" y="0.8" />
+			</position>
+			<position>
+				<start x="0" y="0.8" />
+			</position>
+			<position>
+				<start x="0.5" y="0.8" />
+			</position>
+		</formation>
+		<formation>
+			<title>3-3-3</title>
+			<position>
+				<start x="0" y="0.2" />
+			</position>
+			<position>
+				<start x="-0.5" y="0.4" />
+			</position>
+			<position>
+				<start x="0" y="0.4" />
+			</position>
+			<position>
+				<start x="0.5" y="0.4" />
+			</position>
+			<position>
+				<start x="-0.5" y="0.6" />
+			</position>
+			<position>
+				<start x="0" y="0.6" />
+			</position>
+			<position>
+				<start x="0.5" y="0.6" />
+			</position>
+			<position>
+				<start x="-0.5" y="0.8" />
+			</position>
+			<position>
+				<start x="0" y="0.8" />
+			</position>
+			<position>
+				<start x="0.5" y="0.8" />
+			</position>
+		</formation>
+		<formation>
+			<title>3-3-2</title>
+			<position>
+				<start x="0" y="0.2" />
+			</position>
+			<position>
+				<start x="-0.5" y="0.4" />
+			</position>
+			<position>
+				<start x="0" y="0.4" />
+			</position>
+			<position>
+				<start x="0.5" y="0.4" />
+			</position>
+			<position>
+				<start x="-0.5" y="0.6" />
+			</position>
+			<position>
+				<start x="0" y="0.6" />
+			</position>
+			<position>
+				<start x="0.5" y="0.6" />
+			</position>
+			<position>
+				<start x="-0.25" y="0.8" />
+			</position>
+			<position>
+				<start x="0.25" y="0.8" />
+			</position>
+		</formation>
+		<formation>
+			<title>3-2-2</title>
+			<position>
+				<start x="0" y="0.2" />
+			</position>
+			<position>
+				<start x="-0.5" y="0.4" />
+			</position>
+			<position>
+				<start x="0" y="0.4" />
+			</position>
+			<position>
+				<start x="0.5" y="0.4" />
+			</position>
+			<position>
+				<start x="-0.25" y="0.6" />
+			</position>
+			<position>
+				<start x="0.25" y="0.6" />
+			</position>
+			<position>
+				<start x="-0.25" y="0.8" />
+			</position>
+			<position>
+				<start x="0.25" y="0.8" />
+			</position>
+		</formation>
+		<formation>
+			<title>2-2-2</title>
+			<position>
+				<start x="0" y="0.2" />
+			</position>
+			<position>
+				<start x="-0.35" y="0.4" />
+			</position>
+			<position>
+				<start x="0.35" y="0.4" />
+			</position>
+			<position>
+				<start x="-0.35" y="0.6" />
+			</position>
+			<position>
+				<start x="0.35" y="0.6" />
+			</position>
+			<position>
+				<start x="-0.35" y="0.8" />
+			</position>
+			<position>
+				<start x="0.35" y="0.8" />
+			</position>
+		</formation>
+		<formation>
+			<title>2-1-2</title>
+			<position>
+				<start x="0" y="0.2" />
+			</position>
+			<position>
+				<start x="-0.35" y="0.4" />
+			</position>
+			<position>
+				<start x="0.35" y="0.4" />
+			</position>
+			<position>
+				<start x="0" y="0.6" />
+			</position>
+			<position>
+				<start x="-0.35" y="0.8" />
+			</position>
+			<position>
+				<start x="0.35" y="0.8" />
+			</position>
+		</formation>
+	</formations>
+</teamFormation>
+

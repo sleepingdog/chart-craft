@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document for SVG football shirts */
+/* Barcelona */
+
+.shirt {
+	fill: #113D7A;
+}
+.hoop {
+	display: none;
+}
+.stripe {
+	fill: #7B1832;
+}

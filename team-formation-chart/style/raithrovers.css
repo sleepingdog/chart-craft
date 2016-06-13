@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document for SVG football shirts */
+/* Raith Rovers */
+
+.shirt {
+	fill: #003263;
+}
+.hoop {
+	display: none;
+}
+.stripe {
+	display: none;
+}

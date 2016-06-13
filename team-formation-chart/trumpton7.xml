@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.35" productVersion="11.0.8165" PIVersion="1.0.0.0" href="http://www.sleepingdog.org.uk/x3d/tree/organization.xsn" name="urn:schemas-microsoft-com:office:infopath:organization:http---ns-hr-xml-org-2007-04-15" language="en-gb" ?><?mso-application progid="InfoPath.Document"?>
+<ns1:Organization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:ns1="http://ns.hr-xml.org/2007-04-15"
+	xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<ns1:OrganizationName>Trumpton</ns1:OrganizationName>
+	<ns1:OrganizationalUnit typeOfGroup="" hierarchicalRole="Functional">
+		<ns1:OrganizationalUnitName>Trumpton Fire Brigade</ns1:OrganizationalUnitName>
+		<ns1:PersonMember>
+			<ns1:PersonName>
+				<ns1:FormattedName>Barney McGrew</ns1:FormattedName>
+			</ns1:PersonName>
+		</ns1:PersonMember>
+		<ns1:PersonMember>
+			<ns1:PersonName>
+				<ns1:FormattedName>Pugh</ns1:FormattedName>
+			</ns1:PersonName>
+		</ns1:PersonMember>
+		<ns1:PersonMember>
+			<ns1:PersonName>
+				<ns1:FormattedName>Pugh</ns1:FormattedName>
+			</ns1:PersonName>
+		</ns1:PersonMember>
+		<ns1:PersonMember>
+			<ns1:PersonName>
+				<ns1:FormattedName>Cuthbert</ns1:FormattedName>
+			</ns1:PersonName>
+		</ns1:PersonMember>
+		<ns1:PersonMember>
+			<ns1:PersonName>
+				<ns1:FormattedName>Captain Flack</ns1:FormattedName>
+			</ns1:PersonName>
+			<ns1:PersonRole leader="true" />
+		</ns1:PersonMember>
+		<ns1:PersonMember>
+			<ns1:PersonName>
+				<ns1:FormattedName>Dibble</ns1:FormattedName>
+			</ns1:PersonName>
+		</ns1:PersonMember>
+		<ns1:PersonMember>
+			<ns1:PersonName>
+				<ns1:FormattedName>Grub</ns1:FormattedName>
+			</ns1:PersonName>
+		</ns1:PersonMember>
+	</ns1:OrganizationalUnit>
+</ns1:Organization>
