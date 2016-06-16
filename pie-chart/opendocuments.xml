@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="datalisttopiechart.xslt"?>
+<datalist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datalist.xsd">
+	<title>Open documents</title>
+	<values>
+		<value colour="#FF0000" magnitude="2">XML Spy</value>
+		<value colour="#FF9900" magnitude="5">Mozilla Firefox</value>
+		<value colour="#FFFF99" magnitude="1">Windows Explorer</value>
+	</values>
+</datalist>
